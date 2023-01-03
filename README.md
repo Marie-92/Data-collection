@@ -1,4 +1,4 @@
-# Data-collection
+# Data Collection
 
 ## 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝗳 𝗱𝘂 𝗽𝗿𝗼𝗷𝗲𝘁 :
 ##### Création d'un outil pour aider les touristes à planifier leurs vacances en leur proposant une liste d'hôtels dans les villes françaises ayant la meilleure météo
