@@ -9,7 +9,8 @@
 ##### › Dataviz avec Python Plotly pour proposer des cartes météo interactives
 
 ## 𝗖𝗼𝗺𝗽𝗲́𝘁𝗲𝗻𝗰𝗲𝘀 𝗺𝗶𝘀𝗲𝘀 𝗲𝗻 œ𝘂𝘃𝗿𝗲 :
-##### › Python
+##### › Python (Scikit Learn - FastAPI)
+##### › Streamlit
 ##### › API Rest
 ##### › Web scraping
 ##### › Datavisualisation
